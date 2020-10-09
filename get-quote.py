@@ -1,5 +1,6 @@
 def primary():
   print("Keep it logically awesome.")
+  print("Hello there!")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
@@ -7,5 +8,5 @@ def primary():
 
   #print(quotes)
 
-if __name__== "__name__":
+if __name__== "__main__":
   primary()
